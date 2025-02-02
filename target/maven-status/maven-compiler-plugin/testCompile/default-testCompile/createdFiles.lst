@@ -3,5 +3,6 @@ com\gmail\merikbest2015\ecommerce\controller\CartControllerTest.class
 com\gmail\merikbest2015\ecommerce\controller\UserControllerTest.class
 com\gmail\merikbest2015\ecommerce\controller\AuthenticationControllerTest.class
 com\gmail\merikbest2015\ecommerce\util\TestConstants.class
+com\gmail\merikbest2015\ecommerce\controller\AdminControllerTest.class
 com\gmail\merikbest2015\ecommerce\controller\OrderControllerTest.class
 com\gmail\merikbest2015\ecommerce\controller\PerfumeControllerTest.class
